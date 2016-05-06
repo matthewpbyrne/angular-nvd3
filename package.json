@@ -37,7 +37,7 @@
         "angular": "^1.x",
         "angular-mocks": "^1.x",
         "d3": "^3.3",
-        "nvd3": "git://github.com/matthewpbyrne/nvd3.git#1.8.2-alpha"
+        "nvd3": "git://github.com/matthewpbyrne/nvd3.git#1.8.3-alpha"
     },
     "scripts": {
         "test": "karma start test/karma.conf.js",
